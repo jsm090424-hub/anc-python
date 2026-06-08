@@ -35,8 +35,24 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ```
 
 ### 1. 프로젝트 Clone 
+c drive root로 이동
 ```bash
-cd /Users/andrew/working/nose_killer/python
+cd c:\
+```
+
+작업 디렉토리 생성
+```bash
+mkdir anc
+```
+
+소스 받기 
+```bash
+git clone https://github.com/jsm090424-hub/anc-python.git
+```
+
+소스로 이동 
+```bash
+cd anc-python
 ```
 
 ### 2. 프로젝트 의존성 설치 및 가상환경 구성
