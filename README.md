@@ -34,6 +34,9 @@
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
+### 0. git 설치 
+https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/Git-2.54.0-64-bit.exe
+
 ### 1. 프로젝트 Clone 
 c drive root로 이동
 ```bash
