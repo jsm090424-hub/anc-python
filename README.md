@@ -30,7 +30,7 @@
 - `uv` 패키지 관리 도구 설치
 
 - UV를 WINDOWS에서 설치하기
-  ```bash
+```bash
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
