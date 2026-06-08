@@ -45,6 +45,11 @@ cd c:\
 mkdir anc
 ```
 
+작업 디렉토리로 이동
+```bash
+cd anc
+```
+
 소스 받기 
 ```bash
 git clone https://github.com/jsm090424-hub/anc-python.git
