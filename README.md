@@ -34,7 +34,7 @@
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-### 1. 프로젝트 폴더로 이동
+### 1. 프로젝트 Clone 
 ```bash
 cd /Users/andrew/working/nose_killer/python
 ```
