@@ -29,6 +29,10 @@
 - Python 3.13 이상 설치
 - `uv` 패키지 관리 도구 설치
 
+- UV를 WINDOWS에서 설치하기
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+
 ### 1. 프로젝트 폴더로 이동
 ```bash
 cd /Users/andrew/working/nose_killer/python
